@@ -52,7 +52,7 @@ def click(driver, by, selector):
 try:
     # Wait for the element to be located on the page
     click(driver, By.ID, "upload-button")
-    upload(driver, "C:/Users/bgpra/OneDrive/Desktop/example1.jpg")
+    upload(driver, "./example1.jpg")
     # click(driver, By.CLASS_NAME, "uppload-button--cta")
     click(driver, By.CLASS_NAME, "effects-continue--upload")
     # wait_until_not_hidden(driver, By.ID, "search-button")

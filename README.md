@@ -8,7 +8,8 @@ Lets go through Each one and give a brief summary
 ## Face Searcher Scraper
 
 Takes in an image as an input and searches it through the internet to fetch the name of the person.
-Note: For this and any of the following websites, this is the description of what the website does and i just built a scraper to get me the information.
+### Note:
+I have left an example image in there to help you try the code out for yourself.
 
 ## Insta Lookup
 
@@ -25,3 +26,6 @@ Obviously scrapes from HIBP.
 
 Scrapes Usernames accross a lot of platoforms.
 Doesnt work just yet...
+
+
+Note: For this and any of the above websites, this is the description of what the website does and i just built a scraper to get me the information.
