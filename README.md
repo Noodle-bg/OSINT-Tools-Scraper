@@ -1,31 +1,27 @@
 # Scrapers
 
-Here are a bunch of scrapers i tried building for a osint hackathon.
-I mostly tried to scrape websites that either dont provide api calls or are paid,
-I am myself pretty new to this and wouldnt reccomend anyone to assume what I did is the best way to achieve it.
-Lets go through Each one and give a brief summary
+This repository contains a collection of scrapers developed for an OSINT hackathon. These scrapers are aimed at retrieving data from websites that either lack API access or require payment. As a disclaimer, I'm relatively new to this field, so I wouldn't recommend assuming that my approach is the best way to achieve these tasks. Let's take a brief look at each scraper:
 
 ## Face Searcher Scraper
 
-Takes in an image as an input and searches it through the internet to fetch the name of the person.
+This scraper takes an image as input and searches it through the internet to fetch the name of the person.
+
 ### Note:
-I have left an example image in there to help you try the code out for yourself.
+An example image is provided within the repository to facilitate trying out the code.
 
 ## Insta Lookup
 
-Looks up through instagram and resources the account with the photo.
-Can trace:
-Name to profile
-Username to profile
+This scraper explores Instagram to gather information related to a given account's photo. It can trace:
+
+- Name to profile
+- Username to profile
 
 ## Pawned
 
-Obviously scrapes from HIBP.
+This scraper extracts data from Have I Been Pwned (HIBP).
 
 ## WhatsMyName
 
-Scrapes Usernames accross a lot of platoforms.
-Doesnt work just yet...
+This scraper is designed to collect usernames across various platforms. Please note that it's not fully functional at the moment.
 
-
-Note: For this and any of the above websites, this is the description of what the website does and i just built a scraper to get me the information.
+**Note:** The descriptions provided here are for the respective websites, and the scrapers are developed to extract the information mentioned.
